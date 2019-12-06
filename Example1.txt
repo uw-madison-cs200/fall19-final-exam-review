@@ -1,0 +1,5 @@
+This is an example of reading a file.
+
+Files should be read line by line.
+
+Once you have read a line, you should perform necessary operations.

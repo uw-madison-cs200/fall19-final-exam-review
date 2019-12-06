@@ -1,0 +1,21 @@
+Vader, Luke, Boba Fett, Boba Fett, Luke.
+
+Luke, Luke, Yoda, Han Solo, Yoda.
+
+Boba Fett, Luke, Vader, Yoda, Boba Fett.
+
+Luke, Han Solo, Han Solo, Luke, Luke.
+
+Vader, Princess Leia, Luke, Boba Fett, Vader.
+
+Boba Fett, Han Solo, Luke, Han Solo, Vader.
+
+Boba Fett, Vader, Luke, Vader, Yoda.
+
+Boba Fett, Luke, Princess Leia, Princess Leia, Yoda.
+
+Boba Fett, Han Solo, Vader, Han Solo, Princess Leia.
+
+Princess Leia, Han Solo, Princess Leia, Yoda, Boba Fett.
+
+End of file.
