@@ -29,7 +29,7 @@
 
 ## Examples
 
-Identify the types of each diagram
+Identify the type of each diagram
 
 ### Diagram A
 
