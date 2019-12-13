@@ -2,7 +2,7 @@
  * File I/O
  *  - Input with Scanner
  *  - Output with FileWriter
- *  
+ *
  * @author Ajene
  */
 
@@ -12,15 +12,15 @@ import java.util.Scanner;
 
 public class FileIO {
 
-	public static void main(String[] args) throws FileNotFoundException {
-//		example1();
-//		example2();
-//        example3();
+    public static void main(String[] args) throws FileNotFoundException {
+        //		example1();
+        //		example2();
+        //        example3();
         example4();
-	}
+    }
 
-	public static void example1(){
-		//Read input from a file
+    public static void example1(){
+        //Read input from a file
         File file = new File("./Example1.txt");
         try{
             Scanner fileScanner = new Scanner(file);
@@ -38,10 +38,10 @@ public class FileIO {
         } catch (FileNotFoundException e){
             e.printStackTrace();
         }
-	}
+    }
 
-	public static void example2(){
-	    //Tyring to read input from a path that does not exist
+    public static void example2(){
+        //Tyring to read input from a path that does not exist
         File file = new File("./ExampleDirectory/Example1.txt");
         try{
             Scanner fileScanner = new Scanner(file);
@@ -62,7 +62,7 @@ public class FileIO {
     }
 
     public static void example3(){
-	    //Write to a file
+        //Write to a file
         PrintWriter printWriter = null;
         try {
             printWriter = new PrintWriter("Example3.txt");
