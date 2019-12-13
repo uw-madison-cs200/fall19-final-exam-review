@@ -27,9 +27,9 @@
   - A decision tree that details how the logic within a method works
   - Basically a template for writing a method
 
-## Questions
+## Examples
 
-Identify the types of the following diagrams
+Identify the types of each diagram
 
 ### Diagram A
 
