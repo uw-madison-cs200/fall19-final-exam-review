@@ -1,5 +1,7 @@
 # UML Diagrams
 
+[View this file as a PowerPoint presentation](https://1drv.ms/p/s!AjpvI1edrtIphoEtVtl5kyktEBMVkg)
+
 ## Background
 
 - Communication is hard: using one consistent notation makes life easy
