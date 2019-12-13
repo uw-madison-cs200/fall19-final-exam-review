@@ -10,16 +10,17 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 import java.io.File;
+import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 
 public class FileInput {
 
 	public static void main(String[] args) throws FileNotFoundException {
-		File dataFile = new File("examplePaths/work/class/cs200/data.csv");
+		FileInputStream dataFile = new FileInputStream("examplePaths/work/class/cs200/data.csv");
 		parseFile1(dataFile);
 	}
 
-	public static void parseFile1(File dataFile) throws FileNotFoundException {
+	public static void parseFile1(FileInputStream dataFile) throws FileNotFoundException {
 		Scanner scnr = new Scanner(dataFile);
 		
 		ArrayList<String> titles = new ArrayList<>();
